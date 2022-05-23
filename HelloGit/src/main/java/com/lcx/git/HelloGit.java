@@ -16,6 +16,7 @@ public class HelloGit {
         System.out.println("更新6!");
         System.out.println("更新7!");
         System.out.println("在线更新!");
+        System.out.println("克隆者添加");
 
 
     }
