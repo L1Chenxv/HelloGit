@@ -1,7 +1,7 @@
 package com.lcx.git;
 
 /**
- * version 1.0
+ * @version 1.0
  * create: 2022-05-23 19:48
  * author: 李陈旭
  */
